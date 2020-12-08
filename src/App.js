@@ -20,7 +20,7 @@ function Alert(props) {
   return <MuiAlert elevation={6} variant="filled" {...props} />;
 }
 const URL = "https://api.openweathermap.org/data/2.5/weather";
-const API_KEY = "cd00d6a1ca5b5f303f26a4099eceb92f";
+const API_KEY = "****************";
 
 const useStyles = makeStyles(theme => ({
   container: {
